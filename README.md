@@ -1,3 +1,3 @@
-# AI-image-enhancer-
+# AI-image-enhancer
 First project
 Author - MAN CHOUDHARY
