@@ -1,2 +1,2 @@
-# AI-image-enhance-
+# AI-image-enhancer-
 First project
